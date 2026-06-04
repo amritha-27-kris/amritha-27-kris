@@ -39,7 +39,7 @@ and turn it into something that actually works, under a time limit..
 > Mentorship, job referrals, webinars and direct messaging — all in one place.
 > `React.js` `Flask` `MySQL`
 
-🌿 **SpiceHold** — AI price forecasting for Kerala's cardamom farmers
+🌿 **[SpiceHold](https://github.com/amritha-27-kris/spicehold.git)** — AI price forecasting for Kerala's cardamom farmers
 > Time series forecasting with cooperative pooling and transparent pricing.
 > `Prophet` `Flask` `SQLAlchemy`
 
